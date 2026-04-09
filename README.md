@@ -42,7 +42,7 @@ Se ejecutaron los siguientes comandos en MariaDB para garantizar la persistencia
 
 ---
 
-## 🌐 5. Estructura de la Web
+## 🌐 5. Estructura de la Webb
 El sitio final incluye las siguientes secciones personalizadas:
 * **Inicio:** Bienvenida al mundo del maracuyá premium.
 * **Nosotros:** Origen, Misión y Visión de la empresa.
