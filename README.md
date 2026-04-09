@@ -38,7 +38,7 @@ Se ejecutaron los siguientes comandos en MariaDB para garantizar la persistencia
 ---
 
 ## 🖼️ 4. Evidencias del Proyecto
-
+se mostrata las imagenes del proceso con errores incluidos y resueltos en el momento
 
 ---
 
